@@ -1,0 +1,23 @@
+.B {
+    display: inline-block;
+    width: 200px;
+    height: 100px;
+    margin: 1em;
+    text-align: center;
+    border: solid green 2px;
+}
+#B1 {
+    border: solid rgb(50, 230, 74) 4px;
+}
+.B2 {
+    border: dashed green 2px;
+}
+.B3 {
+    border: dashed blue 2px;
+}
+.B4 {
+    border: dashed red 2px;
+}
+#B5 {
+    border: red 4px solid;
+}

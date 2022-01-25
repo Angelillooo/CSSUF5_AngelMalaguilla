@@ -1,0 +1,38 @@
+* {
+    margin:0px;
+    padding:0px;
+}
+
+#header {
+    margin: auto;
+    width: 500px;
+}
+
+ul {
+    list-style: none;
+}
+
+.div > li {
+    float: left;
+}
+
+.div li a {
+    background-color: green;
+    color: white;
+    text-decoration: none;
+    padding: 10px 12px;
+    display: block;
+}
+
+#div1 a:hover {
+    color: orange;
+}
+
+.div li ul {
+    display: none;
+    position: absolute;
+    min-width: 140px;
+}
+.div li:hover > ul {
+    display: block;
+}

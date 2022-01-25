@@ -1,0 +1,227 @@
+body {
+    background-color: silver;
+}
+.Cuadrado {
+    background-color: red;
+    width: 400px;
+    height: 280px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform:translate(-50%, -50%);
+}
+.A {
+    background-color: red;
+    width: 200px;
+    height: 70px;
+    float: left;
+}
+.B {
+    background-color: blue;
+    width: 200px;
+    height: 70px;
+    float: right;
+}
+.C {
+    background-color: yellow;
+    width: 100px;
+    height: 140px;
+    float: left;
+}
+.D {
+    background-color: purple;
+    width: 100px;
+    height: 70px;
+    float: left;
+}
+.E {
+    background-color: darkblue;
+    width: 200px;
+    height: 70px;
+    float: right;
+}
+.F {
+    background-color:hotpink;
+    width: 100px;
+    height: 70px;
+    float: left;
+}
+.G {
+    background-color: yellow;
+    width: 100px;
+    height: 70px;
+    float: left;
+}
+.H {
+    background-color: white;
+    width: 100px;
+    height: 70px;
+    float: right;
+}
+.I {
+    background-color: lightsteelblue;
+    width: 100px;
+    height: 70px;
+    float: left;
+}
+.J {
+    background-color: saddlebrown;
+    width: 100px;
+    height: 70px;
+    float: left;
+}
+.K {
+    background-color:red;
+    width: 100px;
+    height: 70px;
+    float: left;
+}
+.L {
+    background-color: maroon;
+    width: 100px;
+    height: 70px;
+    float: right;
+}
+/* Mondrian 2 */
+.Todo {
+    display: flex;
+    flex-direction: row;
+    background-color: red;
+    width: 389px;
+    height: 280px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform:translate(-50%, -50%);
+}
+.File1 {
+    background-color: white;
+    border-right: black solid 5px;
+    height: 280px;
+    width: 50px;
+}
+.A1 {
+    height: 50px;
+    width: 50px;
+    float: left;
+    border-bottom: black 5px solid;
+}
+.A2 {
+    height: 150px;
+    width: 50px;
+    float: left;
+    border-bottom: black 5px solid;
+}
+.A3 {
+    height: 30px;
+    width: 50px;
+    float: left;
+    border-bottom: solid black 5px;
+}
+.File2 {
+    background-color: yellow;
+    border-right: black solid 5px;
+    height: 280px;
+    width: 80px;
+}
+.A5 {
+    height: 280px;
+    width: 80px;
+    float: left;
+}
+.File3 {
+    background-color: yellow;
+    border-right: black solid 5px;
+    height: 280px;
+    width: 80px;
+}
+.A6 {
+    background-color: royalblue;
+    height: 90px;
+    width: 80px;
+    float: left;
+    border-bottom: black solid  5px;
+}
+.File4 {
+    width: 80px;
+    height: 280px;
+    border-right: black solid 5px;
+}
+.A8 {
+    height: 180px;
+    width: 80px;
+    border-bottom: black solid  5px;
+}
+.A9 {
+    height: 30px;
+    width: 37px;
+    border-bottom: black solid  5px;
+    border-right: black solid  5px;
+    float: left;
+}
+.A10 {
+    height: 30px;
+    width: 38px;
+    border-bottom: black solid  5px;
+    float: right;
+}
+.A11 {
+    height: 60px;
+    width: 37px;
+    border-right: black solid 5px;
+    background-color: royalblue;
+    float: left;
+}
+.File5 {
+    height: 280px;
+    width: 80px;
+    background-color: yellow;
+}
+.A13 {
+    height: 50px;
+    width: 37px;
+    border-bottom: black solid  5px;
+    border-right: black solid 5px;
+    float: left;
+}
+.A14 {
+    height: 22px;
+    width: 38px;
+    border-bottom: black solid 5px;
+    float: right;
+}
+.A15 {
+    height: 23px;
+    width: 38px;
+    border-bottom: black solid 5px;
+    float: right;
+    background-color: red;
+}
+.A16 {
+    height: 23px;
+    width: 37px;
+    border-bottom: black solid 5px;
+    border-right: black solid 5px;
+    float: left;
+    background-color: white;
+}
+.A17 {
+    height: 23px;
+    width: 38px;
+    border-bottom: black solid 5px;
+    float: right;
+    background-color: white;
+}
+.A18 {
+    background-color: red;
+    height: 90px;
+    width: 80px;
+    float: left;
+    border-bottom: black solid  5px;
+}
+.A19 {
+    height: 102px;
+    width: 40px;
+    float: left;
+    border-right: black solid 5px;
+}

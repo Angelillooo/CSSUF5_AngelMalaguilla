@@ -1,0 +1,19 @@
+table {width: 70%;}
+body {
+    font: 90% sans-serif;
+    background-image: url("../img/IMAGEN.png");
+}
+.p1 {background-color: red;}
+.p2 {background-color: orange;}
+.p3 {background-color: yellow;}
+.p4 {background-color: greenyellow;}
+.p5 {background-color: cyan;}
+.p6 {background-color: blue}
+.p7 {background-color: purple;}
+.p8 {background-color: palevioletred;}
+.p9 {background-color: violet;}
+.p10 {background-color: pink}
+p:hover {background-color: paleturquoise;}
+.baix {text-decoration: underline;}
+.alt {text-decoration: overline;}
+.strong {font-weight: bold;}

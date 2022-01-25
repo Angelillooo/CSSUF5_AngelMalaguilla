@@ -1,0 +1,24 @@
+li {
+    background-color:blue;color: white;
+}
+li {
+    margin-right:85%;margin-top:1%;margin-left:1%;margin-bottom:0%;
+}
+ul {
+    text-align: center;
+}
+li:hover {
+    border: 3px solid red;
+}
+.cap_de_setmana:hover {
+    border: 3px solid red;
+    color: black;
+    background-color: grey;
+}
+.cap_de_setmana {
+    background-color:green;
+    border: 3px solid green;
+}
+li {
+    border: 3px solid blue;
+}

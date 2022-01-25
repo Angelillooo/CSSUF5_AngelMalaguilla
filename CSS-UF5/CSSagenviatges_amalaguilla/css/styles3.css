@@ -1,0 +1,9 @@
+body {
+    background-color: indianred;
+    font-family: 'Alegreya Sans', sans-serif;
+}
+#amm {
+    width: 10%;
+    align-items: center;
+    margin-right: -20px;
+}

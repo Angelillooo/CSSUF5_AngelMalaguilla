@@ -1,0 +1,14 @@
+ol {
+    list-style: none;
+}
+ul {
+    list-style: none;
+}
+#li {
+    width: 60%;
+    color:white;
+}
+body {
+    background-color: rgb(241, 113, 113);
+    font-family: 'Alegreya Sans', sans-serif;
+}
